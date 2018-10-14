@@ -12,7 +12,7 @@ if(n1<n2): #if n2 is greater than n1 than this condition is true
      else:
         continue
 
-else:
+else:  #if n1 is greater than n2 than this condition is true
    for i in range(1,n2+1):
      if n1%i==0 and n2%i==0:
         
