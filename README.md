@@ -14,7 +14,7 @@ if(n1<n2):
 
 else:
    for i in range(1,n2+1):
-     if n1%i=0 and n2%i==0:
+     if n1%i==0 and n2%i==0:
         
         list.append(i)
      else:
