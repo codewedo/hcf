@@ -20,3 +20,4 @@ else:  #if n1 is greater than n2 than this condition is true
      else:
         continue
 print("HCF OF",n1,"AND",n2,"IS" ,max(list))
+#max(list) prints the max value of list.
